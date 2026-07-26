@@ -8,6 +8,7 @@ kimi_robot/wifi_secrets.h
 # 大体积工具二进制（本地保留，不上传）
 tools/arduino-cli.exe
 tools/LICENSE.txt
+tools/bin/
 
 # IDE 配置
 .vscode/
