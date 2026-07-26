@@ -1,5 +1,5 @@
 {
   "cpu": {
-    "fqbn": "esp32:esp32:esp32s3:CDCOnBoot=cdc,FlashMode=dio,FlashSize=4M,PartitionScheme=default,PSRAM=enabled,JTAGAdapter=default,CPUFreq=240,UploadMode=cdc,LoopCore=1,EventsCore=1"
+    "fqbn": "esp32:esp32:esp32s3:CDCOnBoot=cdc,FlashMode=dio,FlashSize=4M,PartitionScheme=huge_app,PSRAM=disabled,JTAGAdapter=default,CPUFreq=240,UploadMode=cdc,LoopCore=1,EventsCore=1"
   }
 }
