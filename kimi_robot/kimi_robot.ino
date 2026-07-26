@@ -9,6 +9,7 @@
  */
 
 #include "config.h"
+#include <WiFi.h>
 #include "led_ctrl.h"
 #include "servo_ctrl.h"
 #include "display_ctrl.h"
